@@ -135,7 +135,7 @@ Open **http://localhost:5173/**
 AI Knowledge & Enablement Professional
 Berlin, Germany
 
-[LinkedIn](#) <!-- Add your LinkedIn URL -->
+[www.linkedin.com/in/sk-paluku](#)
 
 ---
 
